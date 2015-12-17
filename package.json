@@ -1,10 +1,10 @@
 {
-  "name": "email-builder",
-  "version": "1.0.0",
+  "name": "google-dni-email",
+  "version": "0.1.0",
   "description": "Using Gulp to build emails",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:joemidi/email-builder.git"
+    "url": "git@bitbucket.org:oliverdigital/google-dni-email.git"
   },
   "engines": {
     "node": "0.12.7",
@@ -15,7 +15,7 @@
   ],
   "author": "Joey Padasian [joey@padasian.com]",
   "license": "MIT",
-  "homepage": "https://github.com/joemidi/email-builder",
+  "homepage": "https://bitbucket.org/oliverdigital/google-dni-email",
   "devDependencies": {
     "bluebird": "^3.0.5",
     "browser-sync": "^2.8.0",
